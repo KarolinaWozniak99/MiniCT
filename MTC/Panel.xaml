@@ -1,0 +1,34 @@
+﻿<UserControl x:Class="MTC.Panel"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MTC"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="7*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="1*"/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Path" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <TextBox x:Name="Path_tb" Grid.Column="1" Margin="10,10,10,10" IsReadOnly="True" Text="" FontSize="10"/>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="1*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Drive" HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Column="0"/>
+            <ComboBox x:Name="CBDyski" Grid.Column="1" Margin="10,10,10,10" SelectionChanged="CBDyski_SelectionChanged" />
+        </Grid>
+        <ListBox x:Name="ListBoxSciezki" Grid.Row="2" Margin="10,10,10,10"  SelectionChanged="ListBoxSciezki_SelectionChanged" />
+    </Grid>
+</UserControl>

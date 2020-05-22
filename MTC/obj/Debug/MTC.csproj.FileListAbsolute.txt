@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\Panel.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\App.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC_MarkupCompile.cache
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC_MarkupCompile.lref
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\Panel.baml
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC.exe
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC.pdb
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\bin\Debug\MTC.exe.config
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\bin\Debug\MTC.exe
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\bin\Debug\MTC.pdb
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC.g.resources
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\MTC\obj\Debug\MTC.csproj.GenerateResource.cache
